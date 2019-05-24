@@ -20,7 +20,7 @@ Those feeling less anxiety have higher test scores, males feel slightly less anx
 
 ## Resources
 
-<ul>\n
+<ul>
     <li><a href=\"https://stackoverflow.com\">StackOverflow</a></li>
     <li><a href=\"https://pandas.pydata.org/pandas-docs/stable/reference/frame.html#\">Pandas Dataframe reference</a></li>
     <li><a href=\"https://knowledge.udacity.com/?nanodegree=5d1a8326-496f-11e8-b51d-0b52a2c1b841&project=56f678d8-496f-11e8-b3a8-5b814806136d\">Udacity Knowledge</a></li>
